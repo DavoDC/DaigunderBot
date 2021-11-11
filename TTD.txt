@@ -44,3 +44,6 @@ Send messages when processing commands
 
 Add message for confirmation for everything
 
+
+Thanks!
+https://github.com/bildpunkt/suguri
