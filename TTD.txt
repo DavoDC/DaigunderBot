@@ -1,0 +1,46 @@
+
+Make wiki
+put into readme into secret setup file
+FIX ERROR: User id of bot is actually client id in Application dev window!
+
+make wiki = home, info , Add to your Server
+Make running it yourself more secret, for developers only!!
+Give readme a link to wiki
+
+
+Add role commands with arguments
+
+add_roles: x.json
+remove_roles: x.json
+
+Add common presets like Colours+Characters (add + remove)
+
+
+time randomize, challonge, coin flip, message reactions,
+
+
+Add team randomize
+randomize2v2:Star,Davo,Spi,Pat
+
+Add challonge integration
+
+Add comments to code, understand each line
+
+Remove stuff/commands/code you don't need
+
+
+Right now you have to do !setup command first otherwise nothing works! 
+dont do ready first
+Add you must do setup first for bot ! 
+
+Troubleshooting:
+If login failed error, regenerate token!
+
+
+Send messages when started and when crashed 
+
+Send messages when processing commands
+
+
+Add message for confirmation for everything
+
