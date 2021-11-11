@@ -1,4 +1,7 @@
 
+REMOVE ALL mentions of Suguri!!! replace with daigunder in config files
+
+
 Make wiki
 put into readme into secret setup file
 FIX ERROR: User id of bot is actually client id in Application dev window!
