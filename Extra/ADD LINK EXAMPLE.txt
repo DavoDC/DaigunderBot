@@ -1,0 +1,14 @@
+
+FIRST:
+https://discordapp.com/oauth2/authorize?client_id=907935074572460034&scope=bot&permissions=40001200
+
+
+
+SECOND: = 2nd July 2022
+
+application id:
+992683381672394792
+
+perm number from first didnt work, so replaced
+
+https://discordapp.com/oauth2/authorize?client_id=992683381672394792&scope=bot&permissions=8

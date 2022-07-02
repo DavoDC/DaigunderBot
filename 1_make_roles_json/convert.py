@@ -7,7 +7,11 @@ print("####### Raw Lines to Roles.JSON Converter #######")
 
 ### SETUP
 # Set name of raw file (adjust as needed)
-raw_file_name = "AFRICAN_COUNTRIES_RAW.txt"
+#raw_file_name = "AFRICAN_COUNTRIES.txt" (example1)
+#raw_file_name = "TEST_ROLES.txt" (example2)
+raw_file_name = "AFRICAN_COUNTRIES.txt"
+
+
 
 # Open existing raw lines file for reading
 raw_file = open(raw_file_name, "r")
@@ -19,7 +23,7 @@ raw_file_line_count = len(raw_file_line_content)
 # Create new "roles.json" file for writing
 # - If "roles.json" does not exist = Will be created
 # - If "roles.json" does exist = Will be overwritten 
-new_file = open("roles.json","w+")
+new_file = open("roles_" + raw_file_name + ".json","w+")
 
 
 
