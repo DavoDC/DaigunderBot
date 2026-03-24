@@ -1,5 +1,9 @@
 # DaigunderBot
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31WKOCN)
+
+
+
 A Discord bot for batch role creation - create multiple roles in a server at once from a JSON definition file, rather than creating them one by one through the Discord UI.
 
 ## Features
