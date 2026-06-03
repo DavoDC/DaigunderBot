@@ -2,4 +2,7 @@
 # Don't include/upload token!!!
 *config.json
 
+# Node dependencies (install with npm install)
+node_modules/
+
 
