@@ -13,11 +13,22 @@ A Discord bot for batch role creation - create multiple roles in a server at onc
 - Configurable role names, colours, and permissions
 - Includes a pre-built executable for easy use without Node.js
 
-## Usage
+## Setup
 
-1. Define your roles in the JSON config
-2. Run the bot script or use the executable from `Executable/`
-3. Roles are created in your server automatically
+1. [Create a Discord bot application](https://discord.com/developers/applications) and copy its token
+2. In `2_bot_code/`, copy `config-EXAMPLE.example.json` to `config.json`
+3. Set `token` to your bot token and `channel` to the channel name the bot will listen in
+4. In `1_make_roles_json/`, copy `roles-EXAMPLE.example.json` to `roles.json` and define your roles
+
+## Running
+
+```bash
+cd 2_bot_code
+npm install
+npm start
+```
+
+Then in your Discord server, run `!setup` to create all roles from `roles.json`.
 
 ## Tech
 
@@ -27,4 +38,4 @@ A Discord bot for batch role creation - create multiple roles in a server at onc
 
 ## Development
 
-**2017–2022** · Built to automate Discord server setup for a gaming community.
+**2017-2022** - Built to automate Discord server setup for a gaming community.
