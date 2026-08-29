@@ -1,6 +1,12 @@
 MIT License
 
+Copyright (c) 2017 pixeldesu
 Copyright (c) 2026 David C
+
+This project is a derivative of pixeldesu/suguri
+(https://github.com/pixeldesu/suguri), MIT licensed. The original
+copyright notice above is preserved per that license's terms; the
+second line covers changes made in this fork.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
