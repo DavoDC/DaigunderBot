@@ -39,3 +39,5 @@ Then in your Discord server, run `!setup` to create all roles from `roles.json`.
 ## Development
 
 **2017-2022** - Built to automate Discord server setup for a gaming community.
+
+Bot core (`2_bot_code/`) started as a fork of [pixeldesu/suguri](https://github.com/pixeldesu/suguri), MIT licensed. See `LICENSE` for the preserved original copyright notice.
