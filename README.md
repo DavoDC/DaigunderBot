@@ -12,6 +12,7 @@ A Discord bot for batch role creation - create multiple roles in a server at onc
 - Creates all defined roles in a Discord server in one command
 - Configurable role names, colours, and permissions
 - Includes a pre-built executable for easy use without Node.js
+- `3_emote_export/`: download a server's custom emotes (or any emote by ID) at the best quality Discord has, PNG or GIF
 
 ## Setup
 
